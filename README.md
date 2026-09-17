@@ -36,7 +36,7 @@ defensive research.
 Observations are reported as aggregate behavioral patterns — not as a sequence of steps or a
 how-to.
 
-### 2.1 Cross-domain reproducibility
+### 2.1 Cross-domain transferability
 
 All tested domains produced restricted content across separate fresh sessions. A single
 behavioral approach appeared to transfer between topic families that share no surface
